@@ -1,0 +1,5 @@
+uint64 red
+uint64 green
+uint64 blue
+---
+string color_code
