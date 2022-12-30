@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2022 Yoshihiro Ogishima
+# SPDX-Licende-Identifier: BSD-3-Clause
 cmake_minimum_required(VERSION 3.8)
 project(color_msgs)
 
