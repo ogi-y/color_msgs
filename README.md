@@ -2,7 +2,7 @@
 このリポジトリはROS2のパッケージです。srcディレクトリでgit cloneすればパッケージとして利用できます。
 
 ## 依存関係
-このパッケージは[mypkgパッケージ](https://github.com/ogi-y/color_msgs)を利用するために必要です。
+このパッケージは[mypkgパッケージ](https://github.com/ogi-y/mypkg)を利用するために必要です。
 
 ## Color型の説明
 * Color型は以下のように定義されています。
