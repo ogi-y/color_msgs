@@ -11,7 +11,7 @@
     * uint64 green
     * uint64 blue
 
-## サービスの説明
+## Queryサービスの説明
 * サービスを呼び出す方が渡すデータは以下の３つです。
     * uint64 red
     * uint64 green
